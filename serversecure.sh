@@ -1,3 +1,0 @@
-updated code again
-
-This file file contains the server secure related data...
